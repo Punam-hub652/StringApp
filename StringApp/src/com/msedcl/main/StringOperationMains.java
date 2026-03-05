@@ -8,7 +8,7 @@ public class StringOperationMains {
 	  stringUtils str = new stringUtils();
 	  System.out.println(str.concat("Punam", "Nikam"));
 	  System.out.println(str.len("Punam"));
-
+	  System.out.println(str.comparestr("Punam", "Nikam"));
 	}
 
 }

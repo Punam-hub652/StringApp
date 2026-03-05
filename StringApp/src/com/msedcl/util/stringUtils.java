@@ -9,4 +9,10 @@ public class stringUtils {
 	public static int len(String a) {
 		return a.length();
 	}
+	
+	public static int comparestr(String a, String b) {
+		 int flag=a.compareToIgnoreCase(b);
+		
+		return flag;
+	}
 }
