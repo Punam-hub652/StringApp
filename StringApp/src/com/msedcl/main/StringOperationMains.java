@@ -9,6 +9,7 @@ public class StringOperationMains {
 	  System.out.println(str.concat("Punam", "Nikam"));
 	  System.out.println(str.len("Punam"));
 	  System.out.println(str.comparestr("Punam", "Nikam"));
+	  System.out.println(" Punam Nikam");
 	}
 
 }
